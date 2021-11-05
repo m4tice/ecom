@@ -1,0 +1,21 @@
+body {
+    /* background-color: #232728; */
+    background-color: #ffffff;
+}
+
+.card-text {
+    /* color: green; */
+    color: gray;
+    font-weight: 700;
+}
+
+.card-title {
+    /* color: whitesmoke; */
+    color: black;
+    font-weight: 700;
+}
+
+.card {
+    /* background-color: #2b2f30; */
+    background-color: #ffffff;
+}
