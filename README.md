@@ -3,5 +3,5 @@ Build an e-commerce website using Django. User can create an account and shoppin
 
 # Project schema
 <p align="center">
-  <img src="https://github.com/m4tice/ecom/blob/main/assets/store_schema.png">
+  <img src="https://github.com/m4tice/ecom/blob/main/assets/store_schema.png" width="200">
 </p>
