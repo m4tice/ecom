@@ -1,5 +1,5 @@
 # ecom
-Build e-commerce website using Django
+Build an e-commerce website using Django. User can create an account and shopping on the homepage, put items in cart and proceed to checkout.
 
 # Project schema
 <p align="center">
