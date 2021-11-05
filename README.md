@@ -9,15 +9,15 @@ Build an e-commerce website using Django. User can create an account and shoppin
 # Website views
 Homepage  
 <p align="center">
-  <img src="https://github.com/m4tice/ecom/blob/main/assets/homepage.png" width="600">
+  <img src="https://github.com/m4tice/ecom/blob/main/assets/homepage.PNG" width="600">
 </p>
 
 Item view  
 <p align="center">
-  <img src="https://github.com/m4tice/ecom/blob/main/assets/view_item.png" width="600">
+  <img src="https://github.com/m4tice/ecom/blob/main/assets/view_item.PNG" width="600">
 </p>
 
 Checkout  
 <p align="center">
-  <img src="https://github.com/m4tice/ecom/blob/main/assets/checkout.png" width="600">
+  <img src="https://github.com/m4tice/ecom/blob/main/assets/checkout.PNG" width="600">
 </p>
